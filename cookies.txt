@@ -1,0 +1,22 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.flickr.com	TRUE	/	FALSE	1999999999	xb	579838
+.flickr.com	TRUE	/	FALSE	1999999999	localization	en-us%3Bxx%3Bng
+.flickr.com	TRUE	/	FALSE	1999999999	flrbp	1719365046-a5cc7bb3ec85fe0dcefb94fc9549f172defa33d6
+.flickr.com	TRUE	/	FALSE	1999999999	flrbgrp	1719365046-83c6df3f6c0c8ce7b85900995b6959fe783ef231
+.flickr.com	TRUE	/	FALSE	1999999999	flrbgdrp	1719365046-20d58da0c4cc562b4e006daab9246fc8703ef7bf
+.flickr.com	TRUE	/	FALSE	1999999999	flrbgmrp	1719365046-2aea77bacdedb4f0fbd0150636c861dd03ec84fd
+.flickr.com	TRUE	/	FALSE	1999999999	flrbrst	1719365046-b30958b443d2858eaae780c3e7178f083d64de82
+.flickr.com	TRUE	/	FALSE	1999999999	flrtags	1719365046-8b481c03f824d66059e7535685d8f79b5f4d1c49
+.flickr.com	TRUE	/	FALSE	1999999999	flrbrp	1719365046-4e3b6be8a56c5c0f1031846870762ffdc9812fda
+.flickr.com	TRUE	/	FALSE	1999999999	flrb	19
+.flickr.com	TRUE	/	FALSE	1999999999	ccc	%7B%22needsConsent%22%3Afalse%2C%22managed%22%3A0%2C%22changed%22%3A0%2C%22info%22%3A%7B%22cookieBlock%22%3A%7B%22level%22%3A0%2C%22blockRan%22%3A0%7D%7D%7D
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	7m2Mc99BLjI
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	u6SvJD2jh3Q
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJORxIEGgAgZg%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	LFiHJSRP89sPR54ugpKbey603UdfJuLyOtnKHfXu0CU-1719365123-1.0.1.1-WGB0u92gSfip98BtuwtmbPWLshiSZhuKaduKnMZK0ioqAnIts_9gVXfL81IFuZcuVhfd.3h95bDdpJvuyPcIIQ
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	4WUmbafh76mB84y9eAwYvPOmD1fZiK3T6tQdbXm1lQE-1719365123440-0.0.1.1-604800000
+vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
